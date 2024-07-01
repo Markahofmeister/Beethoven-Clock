@@ -1,3 +1,7 @@
 [submodule "pcb/Beethoven-clock_Brain-PCB"]
 	path = pcb/Beethoven-clock_Brain-PCB
 	url = git@github.com:Markahofmeister/Beethoven-clock_Brain-PCB.git
+
+[submodule "embedded/Beethoven-clock_master"]
+	path = embedded/Beethoven-clock_master
+	url = git@github.com:Markahofmeister/Beethoven-Clock_Master.git
