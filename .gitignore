@@ -1,6 +1,7 @@
 legal/
 ~$*.xlsx
 firmware/.metadata/
+figures/Ross-drawings
 
 # ### STM32 files ###
 
