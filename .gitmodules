@@ -4,7 +4,7 @@
 
 [submodule "pcb/Beethoven-clock_LED-PCB"]
 	path = pcb/Beethoven-clock_LED-PCB
-	url = git@github.com:Markahofmeister/Beethoven-clock_LED-PCB.git
+	url = git@github.com:Markahofmeister/Beethoven-Clock_LED-PCB.git
 
 [submodule "embedded/Beethoven-clock_master"]
 	path = embedded/Beethoven-clock_master
