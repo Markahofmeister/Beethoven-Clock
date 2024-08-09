@@ -12,3 +12,7 @@
 
 [submodule "embedded/Beethoven-clock_I2S-test_NUCLEO"]
 	path = embedded/Beethoven-clock_I2S-test_NUCLEO
+
+[submodule "pcb/Beethoven-clock_Flex-PCB"]
+	path = pcb/Beethoven-clock_Flex-PCB
+	url = git@github.com:Markahofmeister/Beethoven-clock_Flex-PCB.git
